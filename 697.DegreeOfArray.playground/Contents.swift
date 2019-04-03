@@ -35,3 +35,4 @@ func DegreeOfArray(myArray:[Int])->Int {
 print(DegreeOfArray(myArray: [1,2,2,3,1,4,2]))
 print(DegreeOfArray(myArray: [1, 2, 2, 3, 1]))
 
+
